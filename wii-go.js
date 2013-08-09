@@ -1,11 +1,10 @@
-var wiiController = require('./wii.js');
+var wiiController = require('wii-controller');
 
 var wii = new wiiController;
 
 wii.on('CWIID_BTN_2:press', function() {
 	console.log('button 2');
 })
-
 
 var arDrone = require('ar-drone');
 
