@@ -1,0 +1,26 @@
+{
+  "name": "drone-wii-controller",
+  "version": "0.1.0",
+  "description": "Control your Parrot AR Drone with a 'Wiimote' controller",
+  "main": "wii-go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonowendesign/drone-wii-controller.git"
+  },
+  "keywords": [
+    "nodecopter",
+    "ar-drone",
+    "wii"
+  ],
+  "author": "Simon Owen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonowendesign/drone-wii-controller/issues"
+  },
+  "dependencies": {
+    "wii-controller": "~0.1.0"
+  }
+}
