@@ -14,7 +14,7 @@ git clone https://github.com/simonowendesign/drone-wii-controller
 
 Connect to wifi on parrot ar drone
 
-`node wii.js`
+`node wii-go.js`
 
 ## Controls
 
